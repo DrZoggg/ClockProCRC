@@ -5,3 +5,9 @@ This study aims to elucidate the relationship between personalized circadian rhy
 Using systems biology approaches, we identified key transcriptomic drivers of circadian rhythms in CRC progression, providing deeper insights into the molecular mechanisms and pathological processes underlying CRC development influenced by circadian rhythms. Additionally, we developed a standardized quantitative scoring system and a high-resolution co-expression network analysis method to evaluate and compare the endogenous circadian clock misalignment profile in CRC (ClockProCRC), enabling a comprehensive and systematic assessment from both biological and clinical perspectives. 
 
 Importantly, we integrated multiple analytical approaches, including single-cell sequencing data analysis, in vitro experiments, and extensive Bulk RNA sequencing analysis, to identify a novel molecular clock biomarker in epithelial cells. These results offer new possibilities for incorporating circadian rhythm-based cancer therapies into personalized medicine treatment strategies.
+
+## Citation
+
+If you use this research or code, please cite the associated peer-reviewed article:
+
+System biology analysis reveals circadian rhythm disorder associated with development and progression in colorectal cancer. *npj Precision Oncology* (2026). https://doi.org/10.1038/s41698-026-01699-1
