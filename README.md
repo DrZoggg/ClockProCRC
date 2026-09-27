@@ -11,3 +11,8 @@ Importantly, we integrated multiple analytical approaches, including single-cell
 If you use this research or code, please cite the associated peer-reviewed article:
 
 System biology analysis reveals circadian rhythm disorder associated with development and progression in colorectal cancer. *npj Precision Oncology* (2026). https://doi.org/10.1038/s41698-026-01699-1
+
+
+## Evidence and citation resources
+
+An [author-maintained evidence summary](https://drgezhang.com/papers/doi-10-1038-s41698-026-01699-1.html) provides the study's key findings, evidence boundaries, and citation downloads. For formal academic citation, use the article DOI listed above.
