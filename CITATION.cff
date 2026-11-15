@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use the analysis code in this repository, please cite the associated research article in preferred-citation."
+type: software
+title: ClockProCRC
+authors:
+  - name: "ClockProCRC project"
+repository-code: https://github.com/DrZoggg/ClockProCRC
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Zhang"
+      given-names: "Shiqian"
+    - family-names: "Cai"
+      given-names: "Shanshan"
+    - family-names: "Hou"
+      given-names: "Naijing"
+    - family-names: "Guo"
+      given-names: "Qian"
+    - family-names: "Zhang"
+      given-names: "Pengpeng"
+    - family-names: "Zhao"
+      given-names: "Zhijie"
+    - family-names: "Guo"
+      given-names: "Song-Bin"
+    - family-names: "Huang"
+      given-names: "Xufeng"
+    - family-names: "Wang"
+      given-names: "Huaqing"
+    - family-names: "Zhang"
+      given-names: "Haonan"
+    - family-names: "Yu"
+      given-names: "Chaoyang"
+    - family-names: "Wu"
+      given-names: "Ruhao"
+    - family-names: "Zhang"
+      given-names: "Chunze"
+    - family-names: "Tam"
+      given-names: "Shing Yau"
+    - family-names: "Zhang"
+      given-names: "Ge"
+  title: "System biology analysis reveals circadian rhythm disorder associated with development and progression in colorectal cancer"
+  journal: "npj Precision Oncology"
+  year: 2026
+  doi: "10.1038/s41698-026-01699-1"
+  url: "https://doi.org/10.1038/s41698-026-01699-1"
