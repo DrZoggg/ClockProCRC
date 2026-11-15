@@ -6,6 +6,10 @@ Using systems biology approaches, we identified key transcriptomic drivers of ci
 
 Importantly, we integrated multiple analytical approaches, including single-cell sequencing data analysis, in vitro experiments, and extensive Bulk RNA sequencing analysis, to identify a novel molecular clock biomarker in epithelial cells. These results offer new possibilities for incorporating circadian rhythm-based cancer therapies into personalized medicine treatment strategies.
 
+## Choose an analysis for your research task
+
+Use the [circadian method-selection guide](docs/method-selection.md) to choose between ClockProCRC expression-state scoring, rhythmicity fitting with recorded times, cohort phase inference and timed drug-response experiments. It maps the current code inputs and outputs to the corresponding research questions and formal papers.
+
 ## Citation
 
 If you use this research or code, please cite the associated peer-reviewed article:
