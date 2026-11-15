@@ -33,6 +33,8 @@ Keep the expression score and time-labelled rhythm results as separate outputs i
 
 Use the [HCCcrds cohort-role example](hcc-cohort-comparison.md) and its downloadable worksheet to distinguish subtype from survival analyses and count overlapping datasets. This separate HCC study is a comparison example, not an HCC implementation in this repository.
 
+For follow-up analysis in a new cancer cohort, use the [author-maintained cancer-omics validation worksheet](https://drgezhang.com/research/cancer-omics-validation.html) to distinguish subtype transfer, prognostic scoring, network-state analysis and the evidence behind an immunotherapy-response claim. It provides worked comparisons and a blank reporting sheet for recording the model or state being applied, any refitting, and whether response evidence is observed or a computational proxy.
+
 ## Sources and citation
 
 - **ClockProCRC:** [10.1038/s41698-026-01699-1](https://doi.org/10.1038/s41698-026-01699-1), Methods: development of the scoring system and detection of biological-clock rhythm; [source-linked study evidence](https://drgezhang.com/papers/doi-10-1038-s41698-026-01699-1.html#kf2). Cite this article when using its research or code; [`CITATION.bib`](../CITATION.bib) is provided.
