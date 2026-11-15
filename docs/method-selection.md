@@ -29,6 +29,10 @@ For each analysis, retain the cohort and observation unit, expression preprocess
 
 Keep the expression score and time-labelled rhythm results as separate outputs in a comparison table. COFE's inferred ordering describes population rhythms; snapshot ordering alone has no inherent absolute period, and the study uses core-clock relationships to define its temporal reference. A recorded-time experiment supplies a different temporal reference.
 
+## Worked cross-cancer cohort comparison
+
+Use the [HCCcrds cohort-role example](hcc-cohort-comparison.md) and its downloadable worksheet to distinguish subtype from survival analyses and count overlapping datasets. This separate HCC study is a comparison example, not an HCC implementation in this repository.
+
 ## Sources and citation
 
 - **ClockProCRC:** [10.1038/s41698-026-01699-1](https://doi.org/10.1038/s41698-026-01699-1), Methods: development of the scoring system and detection of biological-clock rhythm; [source-linked study evidence](https://drgezhang.com/papers/doi-10-1038-s41698-026-01699-1.html#kf2). Cite this article when using its research or code; [`CITATION.bib`](../CITATION.bib) is provided.
